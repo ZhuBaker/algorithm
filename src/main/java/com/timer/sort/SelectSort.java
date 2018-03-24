@@ -29,6 +29,4 @@ public class SelectSort {
 
         System.out.println(arr);
     }
-
-
 }
